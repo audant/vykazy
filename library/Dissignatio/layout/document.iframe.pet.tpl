@@ -1,0 +1,3 @@
+<!-- ?rm=full|demo|minimal|embedded -->
+<h1 id="documents-loader-{dcs_id}" style="position: absolute; top: 0; width: 100%; height: 100%; text-align: center; font-size: 200%; color: #15428B; padding-top: 30%; background-color: #DDDDDD; opacity: 0.8; filter: alpha(opacity=80); -moz-opacity: 0.8; -khtml-opacity: 0.8;">Dokument se nahrává...</h1>
+<iframe src="{dcs_url}" width="100%" height="100%" frameborder="0" onLoad="afterIframeLoad({dcs_id});" scrolling="auto" id="docsIframe" name="docsIframe {dcs_icon}"></iframe>
